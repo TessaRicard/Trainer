@@ -35,7 +35,7 @@
             android:label="Profile">
         </activity>
         <activity android:name=".RecordingActivity"
-            android:label="Profile">
+            android:label="Recording">
         </activity>
     </application>
 
