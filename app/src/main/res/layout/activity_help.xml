@@ -13,7 +13,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginLeft="67dp"
         android:layout_marginStart="30dp"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="49dp"
         android:text="Press record when the athlete is ready to release the arrow. Press record again to stop the recording and mark the archers accuracy, then press save. This saves the recording to the database.
 
 Delete the recording by pressing cancel.
